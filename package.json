@@ -1,0 +1,26 @@
+{
+  "name": "todo-eth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "lite-server",
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.2",
+    "chai": "^4.3.10",
+    "chai-as-promised": "^7.1.1",
+    "chai-bignumber": "^3.1.0",
+    "lite-server": "^2.6.1",
+    "nodemon": "^3.0.1",
+    "truffle": "^5.11.5",
+    "truffle-contract": "^4.0.31",
+    "web3": "^4.2.1"
+  }
+}
